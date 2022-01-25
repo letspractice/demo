@@ -8,7 +8,7 @@ namespace InterfaceExample
     {
         public void employeeName(string a)
         {
-            Console.WriteLine("Employee Name: {0}",a);
+            Console.WriteLine("Printing Employee Name: {0}",a);
         }
 
         public int employeeSalary(int a)
