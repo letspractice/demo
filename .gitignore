@@ -348,3 +348,10 @@ MigrationBackup/
 
 # Ionide (cross platform F# VS Code tools) working folder
 .ionide/
+*.dll
+*.cache
+*.pdb
+InterfaceExample/InterfaceExample/obj/Debug/netcoreapp3.1/InterfaceExample.csproj.FileListAbsolute.txt
+*.editorconfig
+InterfaceExample/InterfaceExample/obj/InterfaceExample.csproj.nuget.dgspec.json
+InterfaceExample/InterfaceExample/obj/project.assets.json
